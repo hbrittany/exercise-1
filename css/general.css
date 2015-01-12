@@ -18,6 +18,14 @@ html {
 body  {
 	background-color: #E9EE79;
 	color: #fff;
+	text-align: center;
+	margin-top: 2rem;
+ }
+
+ h1 {
+ 	font: normal 100%/1.5 Muli,sans-serif;
+ 	color: #FFF;
+ 	text-transform: uppercase;
  }
 
 .icons li {
