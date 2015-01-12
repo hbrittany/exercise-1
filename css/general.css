@@ -28,6 +28,10 @@ body  {
  	text-transform: uppercase;
  }
 
+a {
+	color: #000;
+}
+
 .icons li {
   	margin: 0 auto;
    	width: 400px; 
