@@ -24,8 +24,9 @@ body  {
 
  h1 {
  	font: normal 100%/1.5 Muli,sans-serif;
- 	color: #FFF;
- 	text-transform: uppercase;
+
+ 	font-weight: bold;
+ 	font-size: .9rem;
  }
 
 a {
